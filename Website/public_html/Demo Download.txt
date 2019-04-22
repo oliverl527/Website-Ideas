@@ -1,0 +1,25 @@
+Steps to playing the demo game:
+1. Type 'cd ' and the root directory of 'text-engine-4-master' in the Command Prompt. This will direct the command prompt into the engine.
+	- Example: cd C:\Users\USERNAME\Downloads\Text-Engine-4\The What I.F. Machine\text-engine-4-master
+	  Returns: C:\Users\USERNAME\Downloads\Text-Engine-4\The What I.F. Machine\text-engine-4-master>
+
+2. Type 'Demo_Adventure.py' in the Command Prompt. This will create a new demo game.
+	- Example:
+	When current directory = C:\Users\USERNAME\Downloads\Text-Engine-4\The What I.F. Machine\text-engine-4-master> input command.
+	input command = Demo_Adventure.py
+	Returns:
+
+3. Type 'main.py --room_name "Missing_Flag_Room"' in the Command Prompt. This will start the game.
+	- Example:
+	When current directory = C:\Users\USERNAME\Downloads\Text-Engine-4\The What I.F. Machine\text-engine-4-master> input command.
+	input command = main.py --room_name "Missing_Flag_Room"
+	Returns:	Missing Flag Room
+			A well lit room surrounded with decorations.
+			In the center of the room stands a plaque mentioning a flag.
+			You look around the room but no flag can be seen.
+			An archway to the north leads into an open hallway.
+			At the end of the hallway through an open door you spot the flag.
+
+4. Enjoy playing! Refer to the manuals for help.
+
+*to start over, you must re-create the demo game*
